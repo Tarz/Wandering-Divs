@@ -1,0 +1,23 @@
+body,
+html {
+    height: 100%;
+}
+.box {
+    position: absolute;
+    height: 27px;
+    width: 40px;
+    top: 0px;
+    left: 0px;
+    padding: 0px;
+    margin: 0px;
+    background: url(../sprite/agent.png);
+}
+#innerContainer {
+    margin: 0px;
+    position: absolute;
+    width: 700px;
+    height: 400px;
+    background-color: yellow;
+    -webkit-mask-image: url(../sprite/mask.png);
+    mask-image: url(../sprite/mask.png);
+}

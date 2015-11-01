@@ -1,0 +1,662 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Math",
+				"Math.atan($0)	Math"
+			],
+			[
+				"Mat",
+				"Math.atan2(${0:y}, x)	Math"
+			],
+			[
+				"Ma",
+				"Math.cos($0)	Math"
+			],
+			[
+				"atan",
+				"Math.atan2(${0:y}, x)	Math"
+			],
+			[
+				"wanderTar",
+				"wanderTargetY"
+			],
+			[
+				"_wander",
+				"_wanderDistance"
+			],
+			[
+				"wanderTarget",
+				"wanderTargetX"
+			],
+			[
+				"accelerat",
+				"accelerationY"
+			],
+			[
+				"accelera",
+				"accelerationX"
+			],
+			[
+				"steeringFOr",
+				"steeringForceY"
+			],
+			[
+				"steeringF",
+				"steeringForceX"
+			],
+			[
+				"pos",
+				"postMessage(${0:message}, targetOrigin)	Window"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"h",
+				"h2	Tag"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"l",
+				"label	Tag"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"pers",
+				"perspective	Style CSS"
+			],
+			[
+				"transform",
+				"transformStyle	Style CSS"
+			],
+			[
+				"null",
+				"null"
+			],
+			[
+				"_vec",
+				"_vecVelocity"
+			],
+			[
+				"_max",
+				"_maxTurnRate"
+			],
+			[
+				"fo",
+				"forEach"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"body",
+				"document.body	Document"
+			],
+			[
+				"i",
+				"img	img"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"quer",
+				"querySelectorAll(${0:selectors})	Element"
+			],
+			[
+				"sty",
+				"style	Style CSS"
+			],
+			[
+				"getE",
+				"getElementById(${0:id})	Element"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"bo",
+				"box4"
+			],
+			[
+				"b",
+				"box3"
+			],
+			[
+				"he",
+				"heigth"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"main",
+				"mainContainer"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"m",
+				"meta	Tag"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"MA",
+				"Math.PI	Math"
+			],
+			[
+				"multipl",
+				"multiplyWithNumer"
+			],
+			[
+				"minusminus",
+				"setUTCMinutes(${0:minutesValue})	Date"
+			],
+			[
+				"Us",
+				"use strict';	'use strict';"
+			],
+			[
+				"if",
+				"if else"
+			],
+			[
+				"for",
+				"for in"
+			],
+			[
+				"fore",
+				"forEach(${0:callback})	Array"
+			],
+			[
+				"class",
+				"className	Element"
+			],
+			[
+				"use",
+				"use strict';	'use strict';"
+			],
+			[
+				"subClassInP",
+				"SubClassInProto2"
+			],
+			[
+				"getPro",
+				"getPrototypeOf"
+			],
+			[
+				"fun",
+				"function(){\n	$0\n})();	(function(){\n	$0\n})();"
+			],
+			[
+				"cons",
+				"const "
+			],
+			[
+				"cl",
+				"cl	console.log"
+			],
+			[
+				"overriden",
+				"overriddenPublic"
+			],
+			[
+				"overridde",
+				"overriddenPublic"
+			],
+			[
+				"inner",
+				"Number.POSITIVE_INFINITY	Number"
+			],
+			[
+				"public",
+				"publicMethod"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"us",
+				"use strict';	'use strict';"
+			],
+			[
+				"s",
+				"structure"
+			],
+			[
+				"Test",
+				"TestJSON"
+			],
+			[
+				"test",
+				"testFunc"
+			],
+			[
+				"_strure",
+				"_structureBuilder"
+			],
+			[
+				"TT",
+				"TTStructureBuilder"
+			],
+			[
+				"T",
+				"T"
+			],
+			[
+				"String",
+				"String"
+			],
+			[
+				"_stru",
+				"_structureBuilder"
+			],
+			[
+				"PA",
+				"ParseJSON"
+			],
+			[
+				"event",
+				"eventbus"
+			],
+			[
+				"_",
+				"__dirname"
+			],
+			[
+				"str",
+				"structureBuilder"
+			],
+			[
+				"re",
+				"rectangle"
+			],
+			[
+				"TTC",
+				"TTCompositeView"
+			],
+			[
+				"chi",
+				"_children"
+			],
+			[
+				"node",
+				"node"
+			],
+			[
+				"get",
+				"getStrucuture"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"paca",
+				"Package Control: List Packages"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Function"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/tarvotiivits/Desktop/HTML learn/index05.html",
+		"/Users/tarvotiivits/Desktop/HTML learn/Main.js",
+		"/Volumes/Meci/raamatud/books/Programming/Ai Game Programming By Example/Buckland_Chapter3-Steering Behaviors/BaseGameEntity.h",
+		"/Users/tarvotiivits/Desktop/HTML learn/index002.html",
+		"/Volumes/Meci/raamatud/books/Programming/Ai Game Programming By Example/Buckland_Chapter3-Steering Behaviors/Vehicle.h",
+		"/Volumes/Meci/raamatud/books/Programming/Ai Game Programming By Example/Buckland_Chapter3-Steering Behaviors/Vehicle.cpp",
+		"/Users/tarvotiivits/Library/Application Support/Sublime Text 2/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/MyPatterns/002_ClassPrivatesInheritance/06_Develope protected/NormSub.js",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/MyPatterns/002_ClassPrivatesInheritance/06_Develope protected/NormSuper",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/MyPatterns/002_ClassPrivatesInheritance/SubClass",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/MyPatterns/002_ClassPrivatesInheritance/SubClass.js",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/Soccer/Main.js",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/MyPatterns/002_ClassPrivatesInheritance/Main.js",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/MyPatterns/002_ClassPrivatesInheritance/index.html",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/MyPatterns/002_ClassPrivatesInheritance/SuperClass.js",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/Soccer/SoccerBall.js",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/Soccer/index.html",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/Soccer/Utils.js",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/Soccer/Region.js",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/Soccer/Goal.js",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/Soccer/Vector2D.js",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/Soccer/Geometry.js",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/Soccer/Wall2D.js",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/Soccer/SoccerPitch.js",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/MyPatterns/002_ClassPrivatesInheritance/ProtoChains.js",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/MyPatterns/002_ClassPrivatesInheritance/classPrivatesInheritance.html",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/MyPatterns/002_ClassPrivatesInheritance/Extend.js",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/MyPatterns/002_ClassPrivatesInheritance/SSubClass.js",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/MyPatterns/002_ClassPrivatesInheritance/SSuperClass.js",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/MyPatterns/002_ClassPrivatesInheritance/02_test abstract and override/SubClass.js",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/MyPatterns/002_ClassPrivatesInheritance/SSuperSuperClass.js",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/MyPatterns/001_ClassPrivates/MyClass.js",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/MyPatterns/001_ClassPrivates/Main.js",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/MyPatterns/001_ClassPrivates/ClassWithPrivatesPatternMinimal.js",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/MyPatterns/001_ClassPrivates/ClassWithPrivatesPattern.js",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/MyPatterns/002_ClassPrivatesInheritance/01_test public and private properties/index.html",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/MyPatterns/002_ClassPrivatesInheritance/01_test public and private properties/Main.js",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/MyPatterns/002_ClassPrivatesInheritance/01_test public and private properties/SubClass.js",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/MyPatterns/002_ClassPrivatesInheritance/01_test public and private properties/SuperClass.js",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/MyPatterns/002_ClassPrivatesInheritance/01_test public and private properties/PrivatesProtoChains.js",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/MyPatterns/002_ClassPrivatesInheritance/02_test abstract and override/Main.js",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/MyPatterns/002_ClassPrivatesInheritance/02_test abstract and override/SuperClass.js",
+		"/Users/tarvotiivits/Library/Application Support/Sublime Text 2/Packages/User/JavaScriptNext.sublime-settings",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/MyPatterns/001_ClassPrivates/classPrivates.html",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/009_FactoryMethod_002/ColorLaserPrintJob.js",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/009_FactoryMethod_002/ANewPrintCenter.js",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/009_FactoryMethod_002/NewLowVolPrintCenter.js",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/009_FactoryMethod_002/NewHighVolPrintCenter.js",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/009_FactoryMethod_002/factoryMethod002.html",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/009_FactoryMethod_002/Main.js",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/009_FactoryMethod_002/WorkGroupPrintJob.js",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/009_FactoryMethod_002/ColorInkjetPrintJob.js",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/009_FactoryMethod_002/FancyPrinterCenter.js",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/009_FactoryMethod_002/MultiFunctionPrintJob.js",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/009_FactoryMethod_002/InkjetPrintJobs.js",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/009_FactoryMethod_002/HighVolPrintCenter.js",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/009_FactoryMethod_002/LowVolPrintCenter.js",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/009_FactoryMethod_002/APrintCenter.js",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/009_FactoryMethod_002/IPrintJob.js",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/008_FactoryMethod_001/CreatorB.js",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/008_FactoryMethod_001/CreatorA.js",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/008_FactoryMethod_001/factoryMethod_001.html",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/008_FactoryMethod_001/Main.js",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/008_FactoryMethod_001/ACreator.js",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/008_FactoryMethod_001/Product2.js",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/008_FactoryMethod_001/Product1.js",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/008_FactoryMethod_001/AProduct.js",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/007_Delegation/Media.js",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/007_Delegation/Video.js",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/007_Delegation/Audio.js",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/007_Delegation/PlayAudio.js",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/007_Delegation/PlayVideo.js",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/007_Delegation/delegation.html",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/007_Delegation/Main.js",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/007_Delegation/Mp3.js ",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/007_Delegation/RecordAudio.js",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/007_Delegation/RecordVideo.js",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/007_Delegation/AbstractRecordMedia.js",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/007_Delegation/PlayMedia.js",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/007_Delegation/AbstractPlayMedia.js",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/006_Composition/Main.js",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/006_Composition/HasBase.js",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/006_Composition/BaseClass.js",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/004_Abstract Classes/AbstractClass.js",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/005_Polymorphism/Polymorphism.js",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/005_Polymorphism/Main.js",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/004_Abstract Classes/Main.js",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/004_Abstract Classes/SubClass02",
+		"/Users/tarvotiivits/Desktop/JS Design Patterns and OOP/004_Abstract Classes/SubClass.js",
+		"/Users/tarvotiivits/Desktop/ttcomposite_with_unit_tests/test/TTStructureBuilderTest.js",
+		"/Users/tarvotiivits/Desktop/ttcomposite_with_unit_tests/js/ttcomposite/test/TTCompositeTest.js",
+		"/Users/tarvotiivits/Desktop/ttcomposite_with_unit_tests/js/ttcomposite/ttcompositelisteners/TTCompositeCompositeViewListeners.js",
+		"/Users/tarvotiivits/Desktop/main.js",
+		"/Users/tarvotiivits/Desktop/TTComposite Unit Tests/js/ttcomposite/TTCompositeStructureBuilderListeners.js",
+		"/Users/tarvotiivits/Desktop/TTComposite Unit Tests/js/ttcomposite/view/TTCompositeViewTreeButtonListeners.js",
+		"/Users/tarvotiivits/Desktop/TTComposite Unit Tests/js/ttcomposite/view/TTEditDialog.js",
+		"/Users/tarvotiivits/Desktop/TTComposite Unit Tests/js/ttcomposite/TTCompositeCompositeViewListeners.js",
+		"/Users/tarvotiivits/Desktop/TTComposite/js/ttcomposite/TTStructureBuilder.js",
+		"/Users/tarvotiivits/Desktop/TTComposite/js/ttcomposite/nodes/TTSuperNode.js",
+		"/Users/tarvotiivits/Desktop/TTComposite/js/ttcomposite/view/TTCompositeView.js",
+		"/Users/tarvotiivits/Desktop/TTComposite/index.html",
+		"/Users/tarvotiivits/Desktop/TTComposite/js/private-parts/private-parts.js",
+		"/Users/tarvotiivits/Desktop/TTComposite/js/ttcomposite/view/TTButton.js",
+		"/Users/tarvotiivits/Desktop/TTComposite/js/ttcomposite/view/TTCompositeViewTreeButtonListeners.js",
+		"/Users/tarvotiivits/Desktop/TTComposite/js/ttcomposite/nodes/TTLeafNode.js",
+		"/Users/tarvotiivits/Desktop/TTComposite/js/ttcomposite/TTSaverLoader.js",
+		"/Users/tarvotiivits/Desktop/TTComposite/js/ttcomposite/TTData.js",
+		"/Users/tarvotiivits/Desktop/TTComposite/js/ttcomposite/TTCompositeStructureBuilderListeners.js",
+		"/Users/tarvotiivits/Desktop/TTComposite/js/ttcomposite/TTCompositeCompositeViewListeners.js",
+		"/Users/tarvotiivits/Desktop/TTComposite/js/ttcomposite/nodes/TTCompositeNode.js",
+		"/Users/tarvotiivits/Desktop/TTComposite/js/ttcomposite/nodes/PrivateSuperNode.js",
+		"/Users/tarvotiivits/Desktop/TTComposite/js/ttcomposite/TTComposite.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"On(",
+			"vecvelo",
+			"rotVelo",
+			"â€\n<html lang=\"eng\">\n\n<head>\n    <meta charset=\"UTF-8\">\n    <style>\n    body {\n        font-family: arial, helvetica, sans-serif;\n    }\n    \n    #container {\n        margin: 0 auto;\n        width: 100%;\n    }\n    \n    #header {\n        background-color: #abacab;\n        padding: 10px;\n    }\n    \n    #menu {\n        float: left;\n        width: 100%;\n        background-color: #0c0c0c;\n    }\n    \n    ￼ #menu ul li {\n        list-style-type: none;\n        display: inline;\n    }\n    \n    #menu li a {\n        display: block;\n        text-decoration: none;\n        border-right: 2px solid #FFFFFF;\n        padding: 3px 10px;\n        float: left;\n        color: #FFFFFF;\n    }\n    \n    #menu li a:hover {\n        background-color: #CCCCCC;\n    }\n    \n    #mainContainer {\n        float: left;\n        width: 100%;\n    }\n    \n    #content {\n        clear: left;\n        float: left;\n        width: 65%;\n        padding: 20px 0;\n        margin: 0 0 0 5%;\n        display: inline;\n    }\n    \n    #sidebar {\n        float: right;\n        width: 30%;\n        padding: 20px 0;\n        margin: 0;\n        display: inline;\n        background-color: #CCCCCC;\n    }\n    \n    #footer {\n        clear: left;\n        background-color: #CCCCCC;\n        text-align: center;\n        padding: 20px;\n        height: 1%;\n    }\n    \n    .bordered {\n        /* border: 1px solid black; */\n    }\n    </style>\n</head>\n\n<body style=\"margin:0\">\n    <div id=”container”>\n        <div id=”header”>\n            <h1>This is my site!</h1>\n        </div>\n        <!-- end header -->\n        <div id=”menu”>\n            <ul>\n                <li><a href=”#”>Home</a></li>\n                <li>\n                    <A href=”#”>Services</a>\n                </li>\n                <li><a href=”#”>About Me</a></li>\n                <li><a href=”#”>Contact Me</a></li>\n            </ul>\n        </div>\n        <!-- end menu -->\n        <div id=”mainContainer”>\n            <div id=”content”>\n                <h2>Here’s some content</h2>\n                <p>This is where a story would go</p>\n                <h2>Here’s more content</h2>\n                <p>This is another story</p>\n            </div>\n            <!-- end content -->\n            <div id=”sidebar”>\n                <h3>Menu</h3>\n                <ul>\n                    <li>Menu item 1</li>\n                    <li>Menu item 2</li>\n                    <li>Menu item 3</li>\n                </ul>\n            </div>\n            <!-- end sidebar -->\n            <div id=”footer”>\n                <p>Copyright (c) 2012 Steve Suehring</p>\n            </div>\n            <!-- end footer -->\n        </div>\n        <!-- end mainContainer -->\n    </div>\n    <!-- end contain\n</body>\n\n</html>",
+			"<!DOCTYPE HTML>\n<html lang=\"eng\">\n\n<head>\n    <meta charset=\"UTF-8\">\n    <style>\n    body {\n        font-family: arial, helvetica, sans-serif;\n    }\n    \n    #container {\n        margin: 0 auto;\n        width: 100%;\n    }\n    \n    #header {\n        background-color: #abacab;\n        padding: 10px;\n    }\n    \n    #menu {\n        float: left;\n        width: 100%;\n        background-color: #0c0c0c;\n    }\n    \n    ￼ #menu ul li {\n        list-style-type: none;\n        display: inline;\n    }\n    \n    #menu li a {\n        display: block;\n        text-decoration: none;\n        border-right: 2px solid #FFFFFF;\n        padding: 3px 10px;\n        float: left;\n        color: #FFFFFF;\n    }\n    \n    #menu li a:hover {\n        background-color: #CCCCCC;\n    }\n    \n    #mainContainer {\n        float: left;\n        width: 100%;\n    }\n    \n    #content {\n        clear: left;\n        float: left;\n        width: 65%;\n        padding: 20px 0;\n        margin: 0 0 0 5%;\n        display: inline;\n    }\n    \n    #sidebar {\n        float: right;\n        width: 30%;\n        padding: 20px 0;\n        margin: 0;\n        display: inline;\n        background-color: #CCCCCC;\n    }\n    \n    #footer {\n        clear: left;\n        background-color: #CCCCCC;\n        text-align: center;\n        padding: 20px;\n        height: 1%;\n    }\n    \n    .bordered {\n        /* border: 1px solid black; */\n    }\n    </style>\n</head>\n\n<body style=\"margin:0\">\n    <div id=”container”>\n        <div id=”header”>\n            <h1>This is my site!</h1>\n        </div>\n        <!-- end header -->\n        <div id=”menu”>\n            <ul>\n                <li><a href=”#”>Home</a></li>\n                <li>\n                    <A href=”#”>Services</a>\n                </li>\n                <li><a href=”#”>About Me</a></li>\n                <li><a href=”#”>Contact Me</a></li>\n            </ul>\n        </div>\n        <!-- end menu -->\n        <div id=”mainContainer”>\n            <div id=”content”>\n                <h2>Here’s some content</h2>\n                <p>This is where a story would go</p>\n                <h2>Here’s more content</h2>\n                <p>This is another story</p>\n            </div>\n            <!-- end content -->\n            <div id=”sidebar”>\n                <h3>Menu</h3>\n                <ul>\n                    <li>Menu item 1</li>\n                    <li>Menu item 2</li>\n                    <li>Menu item 3</li>\n                </ul>\n            </div>\n            <!-- end sidebar -->\n            <div id=”footer”>\n                <p>Copyright (c) 2012 Steve Suehring</p>\n            </div>\n            <!-- end footer -->\n        </div>\n        <!-- end mainContainer -->\n    </div>\n    <!-- end contain\n</body>\n\n</html>",
+			"cl",
+			"_walls",
+			"console",
+			"overridden",
+			"005",
+			"_structure",
+			"removeNode",
+			"createJSON",
+			"parseJSON",
+			"createJSON()\n 	*TARVO TIIVITS\n 	*2015 10 5-7.\n*/\n/*\n	*\n	* STRUCTUREBUILDER Class, Manipulates  width structure data (Model) \n	*\n*/\n\nclass TTStructureBuilder\n{\n	constructor(json)\n	{\n		\n	}\n\n	init(json)\n	{\n		if (typeof json != \"string\")\n			json = JSON.stringify(json);\n\n		try {\n        	JSON.parse(json);\n        	\n    	} catch (e) {\n\n        	return false;\n    	}\n		\n		//var res = JSON.parse(json);\n		//console.log(res);\n\n		this.createNewStructure();\n\n		var fromFile = true; //Parse JSON from .js file\n		this.parseJSON(json, fromFile); //Convert JSON to node objects\n	}\n	\n	//First time\n	createNewStructure(json)\n	{\n		//Private properties\n											//(parent, name, index, depth, hidden)\n		this._structure = new TTCompositeNode(null, \"ROOT\", 0, 0, false); //Root (first node)\n		this._counter = 0; // add unique name for new nodes\n	}\n\n	//Parse JSON data to nodes\n	//-json from file(true) or localstorage(false)\n	parseJSON(json, fromfile)\n	{\n		ParseJSON.parseJSON(json, this._structure, 0, fromfile); //Helper class\n\n		this.dispatchBuilded();\n	}\n	\n	//PARSE JSON FROM LOCALSTORAGE\n	createLoadedStructure(json)\n	{\n		this.createNewStructure(); //New root\n		\n		var fromFile = false;\n		ParseJSON.parseJSON(json, this._structure, 0, fromFile); //Helper class\n		\n		this.dispatchUpdated();\n	}\n\n	//Prepare JSON\n	createJSON()\n	{\n		var json = [];\n		json = StructureToJSON.collectStructureToJSON( this._structure, json);\n		return json;\n	}\n\n	//Update a node visibility\n	updateNodeVisibility(node, bool)\n	{\n		var iterator = node.iterator; //Using iterator pattern in composite node\n		var nNode;\n\n		while (iterator.hasNext()) //Set to children same visibility as parent\n		{\n			nNode = iterator.next();\n			nNode.hidden = bool;\n		}\n\n		//Readdy. Dispatch event to TTComosite\n		this.dispatchUpdated();\n	}\n\n	//Update a node name\n	updateNodeName(node, value)\n	{\n		node.name = value;\n		this.dispatchUpdated(); \n	}\n\n	//ADD NEW NODE\n	addNode(node)\n	{\n		//Argument node is new node parent\n\n		node = NodeSwapper.swapLeafToComposite(node); //If (parent)node is not composite, test it and change it\n		\n		//Create new leaf node and add it to parent \n		//(parent, name, index, depth, hidden)\n		var nNode = new TTLeafNode(\n									node,\n									\"new Child #\" + (this._counter++),\n									node.length,\n									node.depth + 1,\n									false\n									);\n		node.addChild(nNode); 			// add child to parent\n		node.hidden = false; 	//set parent visible also true\n		\n		var iterator = node.iterator;\n		var pNode;\n\n		//Other children visible true\n		while (iterator.hasNext())\n		{\n			pNode = iterator.next();\n			pNode.hidden = false;\n		}\n		\n		this.dispatchUpdated()\n	}\n\n	//REMOVE NODE\n	removeNode(node)\n	{\n		//Argument node is node  we want to remove\n\n		var tParent = node.parent; //reference to parent node\n\n		if (tParent != null)  //If node have parent\n		{\n			tParent.remove(node); //..parentNode remove node\n			tParent = NodeSwapper.swapCompositeToLeaf(tParent); //Test and swap node type \n		}\n		\n		this.dispatchUpdated()\n	}\n\n	//Dispatch event to TTComposite\n	dispatchUpdated() { EventBus.dispatch(\"structure_updated\", this); }\n\n	//Dispatch event to TTComposite\n	dispatchBuilded() { EventBus.dispatch(\"structure_builded\", this, this); }\n\n	//TTComposite gets structure\n	get structure() { return this._structure; }\n}",
+			"createLoadedStructure\n/*\n 	*TARVO TIIVITS\n 	*2015 10 5-7.\n*/\n/*\n	*\n	* STRUCTUREBUILDER Class, Manipulates  width structure data (Model) \n	*\n*/\n\nclass TTStructureBuilder\n{\n	constructor(json)\n	{\n		\n	}\n\n	init(json)\n	{\n		if (typeof json != \"string\")\n			json = JSON.stringify(json);\n\n		try {\n        	JSON.parse(json);\n        	\n    	} catch (e) {\n\n        	return false;\n    	}\n		\n		//var res = JSON.parse(json);\n		//console.log(res);\n\n		this.createNewStructure();\n\n		var fromFile = true; //Parse JSON from .js file\n		this.parseJSON(json, fromFile); //Convert JSON to node objects\n	}\n	\n	//First time\n	createNewStructure(json)\n	{\n		//Private properties\n											//(parent, name, index, depth, hidden)\n		this._structure = new TTCompositeNode(null, \"ROOT\", 0, 0, false); //Root (first node)\n		this._counter = 0; // add unique name for new nodes\n	}\n\n	//Parse JSON data to nodes\n	//-json from file(true) or localstorage(false)\n	parseJSON(json, fromfile)\n	{\n		ParseJSON.parseJSON(json, this._structure, 0, fromfile); //Helper class\n\n		this.dispatchBuilded();\n	}\n	\n	//PARSE JSON FROM LOCALSTORAGE\n	createLoadedStructure(json)\n	{\n		this.createNewStructure(); //New root\n		\n		var fromFile = false;\n		ParseJSON.parseJSON(json, this._structure, 0, fromFile); //Helper class\n		\n		this.dispatchUpdated();\n	}\n\n	//Prepare JSON\n	createJSON()\n	{\n		var json = [];\n		json = StructureToJSON.collectStructureToJSON( this._structure, json);\n		return json;\n	}\n\n	//Update a node visibility\n	updateNodeVisibility(node, bool)\n	{\n		var iterator = node.iterator; //Using iterator pattern in composite node\n		var nNode;\n\n		while (iterator.hasNext()) //Set to children same visibility as parent\n		{\n			nNode = iterator.next();\n			nNode.hidden = bool;\n		}\n\n		//Readdy. Dispatch event to TTComosite\n		this.dispatchUpdated();\n	}\n\n	//Update a node name\n	updateNodeName(node, value)\n	{\n		node.name = value;\n		this.dispatchUpdated(); \n	}\n\n	//ADD NEW NODE\n	addNode(node)\n	{\n		//Argument node is new node parent\n\n		node = NodeSwapper.swapLeafToComposite(node); //If (parent)node is not composite, test it and change it\n		\n		//Create new leaf node and add it to parent \n		//(parent, name, index, depth, hidden)\n		var nNode = new TTLeafNode(\n									node,\n									\"new Child #\" + (this._counter++),\n									node.length,\n									node.depth + 1,\n									false\n									);\n		node.addChild(nNode); 			// add child to parent\n		node.hidden = false; 	//set parent visible also true\n		\n		var iterator = node.iterator;\n		var pNode;\n\n		//Other children visible true\n		while (iterator.hasNext())\n		{\n			pNode = iterator.next();\n			pNode.hidden = false;\n		}\n		\n		this.dispatchUpdated()\n	}\n\n	//REMOVE NODE\n	removeNode(node)\n	{\n		//Argument node is node  we want to remove\n\n		var tParent = node.parent; //reference to parent node\n\n		if (tParent != null)  //If node have parent\n		{\n			tParent.remove(node); //..parentNode remove node\n			tParent = NodeSwapper.swapCompositeToLeaf(tParent); //Test and swap node type \n		}\n		\n		this.dispatchUpdated()\n	}\n\n	//Dispatch event to TTComposite\n	dispatchUpdated() { EventBus.dispatch(\"structure_updated\", this); }\n\n	//Dispatch event to TTComposite\n	dispatchBuilded() { EventBus.dispatch(\"structure_builded\", this, this); }\n\n	//TTComposite gets structure\n	get structure() { return this._structure; }\n}",
+			"\"use strict\";\n/*\n 	*TARVO TIIVITS\n 	*2015 10 5-7.\n*/\n/*\n	*\n	* STRUCTUREBUILDER Class, Manipulates  width structure data (Model) \n	*\n*/\n\nclass TTStructureBuilder\n{\n	constructor(json)\n	{\n		\n	}\n\n	init(json)\n	{\n		if (typeof json != \"string\")\n			json = JSON.stringify(json);\n\n		try {\n        	JSON.parse(json);\n        	\n    	} catch (e) {\n\n        	return false;\n    	}\n		\n		//var res = JSON.parse(json);\n		//console.log(res);\n\n		this.createNewStructure();\n\n		var fromFile = true; //Parse JSON from .js file\n		this.parseJSON(json, fromFile); //Convert JSON to node objects\n	}\n	\n	//First time\n	createNewStructure(json)\n	{\n		//Private properties\n											//(parent, name, index, depth, hidden)\n		this._structure = new TTCompositeNode(null, \"ROOT\", 0, 0, false); //Root (first node)\n		this._counter = 0; // add unique name for new nodes\n	}\n\n	//Parse JSON data to nodes\n	//-json from file(true) or localstorage(false)\n	parseJSON(json, fromfile)\n	{\n		ParseJSON.parseJSON(json, this._structure, 0, fromfile); //Helper class\n\n		this.dispatchBuilded();\n	}\n	\n	//PARSE JSON FROM LOCALSTORAGE\n	createLoadedStructure(json)\n	{\n		this.createNewStructure(); //New root\n		\n		var fromFile = false;\n		ParseJSON.parseJSON(json, this._structure, 0, fromFile); //Helper class\n		\n		this.dispatchUpdated();\n	}\n\n	//Prepare JSON\n	createJSON()\n	{\n		var json = [];\n		json = StructureToJSON.collectStructureToJSON( this._structure, json);\n		return json;\n	}\n\n	//Update a node visibility\n	updateNodeVisibility(node, bool)\n	{\n		var iterator = node.iterator; //Using iterator pattern in composite node\n		var nNode;\n\n		while (iterator.hasNext()) //Set to children same visibility as parent\n		{\n			nNode = iterator.next();\n			nNode.hidden = bool;\n		}\n\n		//Readdy. Dispatch event to TTComosite\n		this.dispatchUpdated();\n	}\n\n	//Update a node name\n	updateNodeName(node, value)\n	{\n		node.name = value;\n		this.dispatchUpdated(); \n	}\n\n	//ADD NEW NODE\n	addNode(node)\n	{\n		//Argument node is new node parent\n\n		node = NodeSwapper.swapLeafToComposite(node); //If (parent)node is not composite, test it and change it\n		\n		//Create new leaf node and add it to parent \n		//(parent, name, index, depth, hidden)\n		var nNode = new TTLeafNode(\n									node,\n									\"new Child #\" + (this._counter++),\n									node.length,\n									node.depth + 1,\n									false\n									);\n		node.addChild(nNode); 			// add child to parent\n		node.hidden = false; 	//set parent visible also true\n		\n		var iterator = node.iterator;\n		var pNode;\n\n		//Other children visible true\n		while (iterator.hasNext())\n		{\n			pNode = iterator.next();\n			pNode.hidden = false;\n		}\n		\n		this.dispatchUpdated()\n	}\n\n	//REMOVE NODE\n	removeNode(node)\n	{\n		//Argument node is node  we want to remove\n\n		var tParent = node.parent; //reference to parent node\n\n		if (tParent != null)  //If node have parent\n		{\n			tParent.remove(node); //..parentNode remove node\n			tParent = NodeSwapper.swapCompositeToLeaf(tParent); //Test and swap node type \n		}\n		\n		this.dispatchUpdated()\n	}\n\n	//Dispatch event to TTComposite\n	dispatchUpdated() { EventBus.dispatch(\"structure_updated\", this); }\n\n	//Dispatch event to TTComposite\n	dispatchBuilded() { EventBus.dispatch(\"structure_builded\", this, this); }\n\n	//TTComposite gets structure\n	get structure() { return this._structure; }\n}",
+			"bad",
+			"sb",
+			"_(this).",
+			"sb",
+			"_(this).",
+			"this._",
+			"conso",
+			"_(this).",
+			"children",
+			"_",
+			"console",
+			"this"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"",
+			"this._",
+			"this.",
+			"this",
+			"_(this).",
+			"(this).",
+			"this._",
+			"this."
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 313.0,
+	"status_bar_visible": true
+}
